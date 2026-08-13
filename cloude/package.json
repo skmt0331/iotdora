@@ -1,0 +1,12 @@
+{
+  "name": "iotdora",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^5.0.0",
+    "mqtt": "^5.0.0"
+  }
+}
