@@ -74,7 +74,7 @@ button,select{font-family:inherit; font-size:inherit; color:inherit}
   45%{transform:translate(2px,-1px)} 70%{transform:translate(-1px,0)}}
 
 /* 残り時間  [GONG5-CSS-004] */
-.count{font-family:var(--mono); font-weight:700; font-size:clamp(56px,20vw,96px); line-height:1.1;
+.count{font-family:var(--mono); font-weight:700; font-size:clamp(100px,30vw,300px); line-height:1.1;
   letter-spacing:.02em; font-variant-numeric:tabular-nums}
 .count.warn{color:var(--shu)}
 .state{color:var(--muted); font-size:13px; min-height:20px; text-align:center; margin-top:2px}
